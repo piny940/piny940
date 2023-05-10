@@ -22,4 +22,5 @@
 </p>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piny940&&show_icons=true&theme=transparent&count_private=true" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piny940&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piny940&theme=transparent" />
+
