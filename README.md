@@ -24,3 +24,4 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piny940&theme=transparent" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=piny940" />
