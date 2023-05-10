@@ -43,7 +43,6 @@
 </p>
 <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piny940&&show_icons=true&theme=algolia&count_private=true" />
 
-
 <img width="80%" src="https://github-profile-trophy.vercel.app/?username=piny940&theme=algolia"  />
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piny940&theme=algolia" />
